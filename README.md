@@ -1,7 +1,7 @@
 # awesome-artblocks
 
 ## Artist Tools
-- [artblocks/docs](https://github.com/artblocks/docs) - An introduction for creative coding on ArtBlocks.
+- [ArtBlocks/artblocks-docs](https://github.com/ArtBlocks/artblocks-docs) - An introduction for creative coding on ArtBlocks.
 - [Artblocks Recorder](https://artblocks-renderer.netlify.app/) - Renders GIF, MP4 or PNG sequences of ArtBlocks mints.
 - [asupkay/artblocks-starter-template](https://github.com/asupkay/artblocks-starter-template) - Start template for artists creating on ArtBlocks.
 - [ctrlshiftmake/token-art-tools](https://github.com/ctrlshiftmake/token-art-tools) - React Gatsby static web tool for generative artists.
