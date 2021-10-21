@@ -14,7 +14,7 @@
 - [curatingbits/artblocksiobot](https://github.com/curatingbits/artblocksiobot) - The unofficial Discord bot for ArtBlocks.
 
 ## Developer Tools
-- [sheIby/node-artblocks](https://github.com/sheIby/node-artblocks) - Node package for reading on-chain Art Blocks dataa.
+- [ArtBlocks/node-artblocks](https://github.com/sheIby/node-artblocks) - Node package for reading on-chain Art Blocks dataa.
 - [mattdesl/artblocks-renderer](https://github.com/mattdesl/artblocks-renderer) - Rendering ArtBlocks projects to MP4 / GIF.
 - [openlawteam/Artblocks-Contract](https://github.com/openlawteam/Artblocks-Contract) - The ArtBlocks contract.
 
