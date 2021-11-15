@@ -8,6 +8,7 @@
 - [mattdesl/tiny-artblocks](https://github.com/mattdesl/tiny-artblocks) - Toolkit for small ArtBlocks projects.
 - [k0ch/ArtblocksRandom](https://github.com/k0ch/ArtblocksRandom) - A simple random class for ArtBlocks projects.
 - [m0wh/artblocks-sandbox](https://github.com/m0wh/artblocks-sandbox) - A boilerplate to start creating for ArtBlocks.
+- [Pandelune/ab-boilerplate](https://github.com/Pandelune/ab-boilerplate) - A boilerplate for an ArtBlocks artistic project, when using p5js; focuses on code organisation and ArtBlocks specific packaging.
 
 ## Bots and Automation
 - [ArtBlocks/artbot](https://github.com/ArtBlocks/artbot) - The official Discord bot for ArtBlocks.
