@@ -2,6 +2,7 @@
 
 ## Artist Tools
 - [ArtBlocks/artblocks-docs](https://github.com/ArtBlocks/artblocks-docs) - An introduction for creative coding on ArtBlocks.
+- [ArtBlocks code viewer](https://art-blocks-viewer.davidfurlong1.repl.co/) - Read, edit and run ArtBlocks project code.
 - [Artblocks Recorder](https://artblocks-renderer.netlify.app/) - Renders GIF, MP4 or PNG sequences of ArtBlocks mints.
 - [asupkay/artblocks-starter-template](https://github.com/asupkay/artblocks-starter-template) - Start template for artists creating on ArtBlocks.
 - [owenmoore/token-art-tools](https://github.com/owenmoore/token-art-tools) - Webapp for artists to automate random hash image/feature generation
